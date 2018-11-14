@@ -1,9 +1,9 @@
 # An Exploration of Crime in Minneapolis, MN
 Utilizing an assigned data set, this project focuses on data cleansing and visualization using R and Tableau, including garnering insights on:
 
-* vehicle-related crimes versus other crimes;
-* time taken to report crimes; and
-* the geolocation of crimes in Minneapolis, MN.
+* vehicle-related offenses versus other offenses;
+* time taken to report offenses; and
+* the geolocation of offenses in Minneapolis, MN.
 
 This project was completed by [Anna M. Kot](https://github.com/kotanna) at University of New Hampshire for DATA901: Analytics Applications I (Fall 2018).
 
