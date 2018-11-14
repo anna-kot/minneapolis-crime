@@ -18,10 +18,9 @@ The following instructions will get you a copy of the project up and running on 
 3. Install R packages: `knitr`, `ProjectTemplate`  (e.g., `install.packages("knitr")`)
 4. Install any R packages required for data import or listed in `config/global.dcf`
 
-### Installation
-If you want to use this project to perform a data analysis, adopt the following steps:
+### Instructions for use
 
-1. [Download]() a zip file of the MNcrime project
+1. [Download](https://github.com/kotanna/minneapolis-crime/archive/master.zip) a zip file of the project
 2. Unzip this file to an appropriate location and open the project in RStudio by clicking the `.Rproj` file 
 3. Open the included RMarkdown file (i.e., `src/explore.Rmd`) and run the chunk `library(ProjectTemplate); load.project()` to:
     * read in the global configuration file contained in `config`.
