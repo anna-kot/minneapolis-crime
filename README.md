@@ -1,9 +1,9 @@
 # An Exploration of Crime in Minneapolis, MN
 Utilizing an assigned data set, this project focuses on data cleansing and visualization using R and Tableau, including garnering insights on:
 
-* vehicle-related offenses versus other offenses;
-* time taken to report offenses; and
-* the geolocation of offenses in Minneapolis, MN.
+* vehicle-related crimes versus other crimes;
+* time taken to report crimes; and
+* the geolocation of crimes in Minneapolis, MN.
 
 This project was completed by [Anna M. Kot](https://github.com/kotanna) at University of New Hampshire for DATA901: Analytics Applications I (Fall 2018).
 
@@ -23,10 +23,10 @@ The following instructions will get you a copy of the project up and running on 
 1. [Download](https://github.com/kotanna/minneapolis-crime/archive/master.zip) a zip file of the project
 2. Unzip this file to an appropriate location and open the project in RStudio by clicking the `.Rproj` file 
 3. Open the included RMarkdown file (i.e., `src/explore.Rmd`) and run the chunk `library(ProjectTemplate); load.project()` to:
-    * read in the global configuration file contained in `config`
-    * load R packages listed in the configuration file
-    * read in datasets stored in `data` or `cache`
-    * preprocess the data using the files in the `munge` directory
+    * read in the global configuration file contained in `config`.
+    * load R packages listed in he configuration file.
+    * read in datasets stored in `data` or `cache`.
+    * preprocess the data using the files in the `munge` directory.
 4. Verify the data imported correctly (you may well get errors at this point indicating that you need to install additional R packages or dependencies, if so, install these)
 
 You're now ready to start manipulating and analyzing the data, already fully preprocessed.
