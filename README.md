@@ -5,6 +5,8 @@ Utilizing an assigned data set, this project focuses on data cleansing and visua
 * time taken to report crimes; and
 * the geolocation of crimes in Minneapolis, MN.
 
+To view the Tableau analysis of the data set, visit my [Tableau Public](https://public.tableau.com/profile/anna.m.kot#!/vizhome/RaleighCrimeDashboard2_0/VehicleandNon-VehicleRelatedOffenses) page.
+
 This project was completed by [Anna M. Kot](https://github.com/kotanna) at University of New Hampshire for DATA901: Analytics Applications I (Fall 2018).
 
 ---
