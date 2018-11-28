@@ -45,6 +45,6 @@ You're now ready to start manipulating and analyzing the data, already fully pre
 
 ## Authors and Acknowledgments
 * [Anna M. Kot](https://github.com/kotanna) - *Initial project*
-* [Benjamin R. Forleo](https://github.com/Ben-168) - *Guidance and support*
+* [Benjamin R. Forleo](https://github.com/benforleo) - *Guidance and support*
 
 This project was built using [ProjectTemplate](http://projecttemplate.net/), an R package facilitating data analysis with R.
